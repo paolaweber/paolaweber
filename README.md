@@ -2,7 +2,11 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Paola Weber, tenho 22 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFFAR, com o curso técnico integrado em Administrção. Atualmente, estou cursando Ciência da Computação na UFFS. Possuo conhecimento de nível intermediário em inglês, também sou apaixonada por tecnologia e pelo desenvolvimento.
+Me chamo Paola Weber, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente.
+Estou cursando Ciência da Computação na UFFS.
+Concluí o Ensino Médio integrado ao Curso Técnico em Administração no IFFAR.
+
+Possuo nível intermediário de inglês e sou apaixonada por tecnologia e desenvolvimento de software, buscando constantemente aprimorar meus conhecimentos e habilidades na área.
 
 </p>
 
