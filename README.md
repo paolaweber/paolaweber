@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Paola Weber
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora FullStack em construção`**
 
 Me chamo Paola Weber, tenho 22 anos e sou natural do Rio Grande do Sul. 
 Atualmente, estou cursando Ciência da Computação na UFFS.
