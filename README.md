@@ -6,18 +6,11 @@ Me chamo Paola Weber, tenho 22 anos e sou natural do Rio Grande do Sul. Concluí
 
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
 
-  <a href="https://discord.gg/SEU-CONVITE">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" />
-  </a>
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEU-CONVITE)
 
-  <a href="https://instagram.com/SEU-USUARIO">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" />
-  </a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
 </p>
 
 ---
