@@ -7,6 +7,7 @@ Me chamo Paola Weber, tenho 22 anos e sou natural do Rio Grande do Sul. Concluí
 </p>
 
 <p align="center">
+  <p> Acompanhe meu trabalho pelas redes: </p>
   <a href="https://www.linkedin.com/in/SEU-USUARIO">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
