@@ -11,7 +11,7 @@ Possuo nível intermediário de inglês e sou apaixonada por tecnologia e desenv
 </p>
 
 <p align="center">
-  <p> Acompanhe meu trabalho pelas redes: </p>
+  <p> Acompanhe pelas redes: </p>
   <a href="https://www.linkedin.com/in/SEU-USUARIO">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
