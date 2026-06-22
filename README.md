@@ -11,10 +11,10 @@ Possuo conhecimento em nível intermediário de inglês e estou buscando constan
 
 <p align="center">
   <p> Me acompanhe pelas redes: </p>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
+  <a href="https://www.linkedin.com/in/Paola">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://discord.gg/SEU-CONVITE">
+  <a href="https://discord.gg/webinha">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://instagram.com/paola_weber77">
