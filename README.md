@@ -10,7 +10,7 @@ Possuo conhecimento em nível intermediário de inglês e estou buscando constan
 </p>
 
 <p align="center">
-  <p> Acompanhe pelas redes: </p>
+  <p> Me acompanhe pelas redes: </p>
   <a href="https://www.linkedin.com/in/SEU-USUARIO">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
