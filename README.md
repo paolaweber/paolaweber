@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack em construção`**
 
-Me chamo Paola Weber, sou apaixonada por tecnologia e desenvolvimento de software e atualmente, estou cursando Ciência da Computação na UFFS.
+Eu me chamo Paola Weber, sou apaixonada por tecnologia e desenvolvimento de software e atualmente, estou cursando Ciência da Computação na UFFS.
 Concluí o Ensino Médio integrado ao Curso Técnico em Administração no IFFAR.
 
 Possuo conhecimento em nível intermediário de inglês e estou buscando constantemente aprimorar meus conhecimentos e habilidades na área.
